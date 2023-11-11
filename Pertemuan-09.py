@@ -11,6 +11,7 @@ st.write("#### Semangat") #maksimal 6 hastag
 # kinerja unit
 st.metric("Kinerja", 40, -1)
 st.metric("Response Time", 30, 20)
+st.metric("Saham", 100, 20)
 
 # pilihan
 pilih1 = st.checkbox('Ya')
